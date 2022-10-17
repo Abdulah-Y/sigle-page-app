@@ -4,7 +4,8 @@ export default function Home() {
 
 
         <div>
-            This is Home page
+            This is Home
         </div>
     )
 }
+//*
